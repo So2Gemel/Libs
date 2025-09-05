@@ -1,5 +1,5 @@
 {
-  "version": "1.5",
+  "version": "1.6",
   "lib_url": "https://raw.githubusercontent.com/So2Gemel/Libs/main/libavaritia.so",
   "changelog": "• Fixed bugs\n• Improved stability\n• Added anti-debug and anti-proxy protection"
 }
