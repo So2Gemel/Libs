@@ -1,14 +1,6 @@
 {
   "version": "1.3",
-  "libs": [
-    {
-      "name": "libone.so",
-      "url": "https://raw.githubusercontent.com/So2Gemel/Libs/main/libone.so"
-    },
-    {
-      "name": "libtwo.so",
-      "url": "https://raw.githubusercontent.com/So2Gemel/Libs/main/libtwo.so"
-    }
-  ],
-  "changelog": "🔥 Added dual library support and smoother progress bar!"
+  "lib_url1": "https://raw.githubusercontent.com/So2Gemel/Libs/main/libone.so",
+  "lib_url2": "https://raw.githubusercontent.com/So2Gemel/Libs/main/libtwo.so",
+  "changelog": "✨ Added support for 2 libraries!"
 }
